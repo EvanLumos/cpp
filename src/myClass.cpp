@@ -1,3 +1,7 @@
+/*
+ * 测试构造函数、析构函数、继承以及多种创建对象的方法
+ *
+ * */
 #include <iostream>
 using namespace std;
 
